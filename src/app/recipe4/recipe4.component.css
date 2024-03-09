@@ -1,0 +1,14 @@
+.img{
+    width: 400px;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.btn{
+    background-color: rgb(234, 142, 56);
+    margin-right: 10px;
+    border-radius: 10px;
+    height: 40px;
+}
